@@ -21,3 +21,4 @@ This repository contains machine learning code focused on a stroke study using L
    ```bash
    git clone https://github.com/conanan/lasso-ml.git
    ```
+The article is published in Elife at https://elifesciences.org/reviewed-preprints/98759
